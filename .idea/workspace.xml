@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e66e00e-eb93-466d-9579-d290ed0122d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="7e66e00e-eb93-466d-9579-d290ed0122d6" name="Changes" comment="Main Branch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2C5YwNzPP0rc2UkbdTQJH4KNmiU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,8 +51,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658094156208</updated>
-      <workItem from="1658094157758" duration="942000" />
+      <workItem from="1658094157758" duration="2246000" />
     </task>
+    <task id="LOCAL-00001" summary="Main Branch">
+      <created>1658095177852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658095177852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main Branch">
+      <created>1658095484725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658095484725</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main Branch" />
   </component>
 </project>
